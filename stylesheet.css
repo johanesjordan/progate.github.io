@@ -111,3 +111,14 @@ header {
   border: 1.5px solid #eee;
   font-weight: bold;
 }
+
+.content {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content kanan {
+  float: right;
+  margin: 5px;
+}
